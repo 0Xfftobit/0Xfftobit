@@ -1,8 +1,8 @@
 Hi, I am AI Engineer.
 
 <br/>
-fine tuning LLM
+- fine tuning LLM
 <br/>
-computer vision
+- computer vision
 <br/>
-AI marketing
+- AI marketing
