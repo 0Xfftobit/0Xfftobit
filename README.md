@@ -12,4 +12,4 @@ Hi, I am an AI engineer who transitioned into the technology field after working
 <br/>
 - Preparing data for computer vision model, RAG model and prediction model.
 <br/>
-- Developing AI model for marketing company
+- Developing AI model to advertise companies
