@@ -8,8 +8,8 @@ Hi, I am an AI engineer who transitioned into the technology field after working
 - Developing Frontend with HTML, CSS, React, React Native, Next, Kotlin and etc.
 
 <br/>
-- Fine-tuning LLM, AGI model development.
+- Fine-tuning LLM, Computer Vision Model and AGI Model.
 <br/>
 - Preparing data for computer vision model, RAG model and prediction model.
 <br/>
-- AI marketing
+- Developing AI model for marketing company
